@@ -1,7 +1,7 @@
 # Digital Literacy Project - CSE0001
 
 **Student:** Aditya Negi  
-**Reg No:** 25BCE10324 
+**Reg No:** 25BCE10324  
 **Branch/Year:** BTech. CSE (Core) 2029 
 **VIT Bhopal University**  
 **Date:** March 25, 2026  
