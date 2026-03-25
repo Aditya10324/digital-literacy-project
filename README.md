@@ -7,7 +7,12 @@
 **Date:** March 25, 2026  
 
 ## Project Overview
-As Student Digital Ambassador, this portfolio covers 5 modules: infographics, profiles, platforms, etiquette, cybercrime. [file:1]
+As Student Digital Ambassador, this portfolio covers 5 modules: 
+* Infographics
+* Profiles
+* Platforms
+* Etiquette
+* Cybercrime
 
 ## Task Links & Previews
 - Task 1: [Canva/Prezi link or image in task-1-presentation/]
@@ -17,4 +22,3 @@ As Student Digital Ambassador, this portfolio covers 5 modules: infographics, pr
 - Task 5: Case study/checklist in task-5-cybercrime/
 - Report: report/Project_Report.pdf
 
-Repo Structure: Matches brief exactly for bonus marks.[file:1]
