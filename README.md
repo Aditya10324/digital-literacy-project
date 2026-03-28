@@ -48,4 +48,3 @@ This repository contains my complete **Digital Literacy Portfolio**, created as 
 ---
 
 **Aditya Negi** | **VIT Bhopal University** | **CSE0001 Digital Literacy** | **March 28, 2026**
-```
