@@ -21,5 +21,7 @@ College students aged 18-24 using UPI apps daily. NCRB 2024 data shows students 
 **Consequences**: Financial loss, frozen accounts, academic stress, damaged credit scores.
 
 **Key Lesson**: Real organizations never ask for UPI PIN via SMS/email.
--
+
+---
+
 **By Aditya Negi | VIT Bhopal University | CSE0001 Digital Literacy**
