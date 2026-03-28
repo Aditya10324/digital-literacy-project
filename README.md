@@ -2,7 +2,7 @@
 
 **Student:** Aditya Negi  
 **Reg No:** 25BCE10324  
-**Branch/Year:** BTech. CSE (Core) 2029 
+**Branch/Year:** BTech. CSE (Core) 2029  
 **VIT Bhopal University**  
 **Date:** March 25, 2026  
 
