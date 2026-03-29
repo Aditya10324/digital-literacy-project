@@ -36,7 +36,7 @@ This repository contains my complete **Digital Literacy Portfolio**, created as 
 
 ### Task 4: Email & Social Media Etiquette (20 marks)
 - **What:** 2 professional emails + social media Do's/Don'ts checklist
-- **Files:** `emails.txt`, `social-media-checklist.md`
+- **Files:** `emails.pdf`, `social-media-checklist.md`
 - **Location:** [`task-4-email-etiquette/`](./task-4-email-etiquette/)
 
 ### Task 5: Cybercrime Awareness (20 marks)
